@@ -17,7 +17,7 @@ public class main {
     public static void main(String[] args) {
         
         LocalTime tiempo = new LocalTime();         
-               System.out.print("El tiempo actual es "+ tiempo);
+               System.out.print("El tiempo actual esjhgghfhgfg "+ tiempo);
 
         
     }
